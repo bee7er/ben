@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdb8d509-2934-42c3-8e15-10b86ad17a09" name="Default" comment="" />
+    <ignored path="ben.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ben" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Administrator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/bendev/jumbler/Administrator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-26.875">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jumbler.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/bendev/jumbler/Jumbler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.121951">
+              <caret line="116" column="6" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="6" />
+              <folding>
+                <marker date="1538924462921" expanded="true" signature="4714:4734" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="4714:5877" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="4785:5877" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="4889:4925" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="4926:5877" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="4951:4971" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="4951:5265" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="4996:5047" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="5048:5239" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="5375:5545" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="5428:5493" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="5608:5877" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="5641:5651" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="5698:5877" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="5757:5877" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6048:6322" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6081:6091" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6139:6171" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6139:6322" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6200:6322" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6590:6875" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6623:6633" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6685:6875" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="6753:6875" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7051:7171" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7342:7362" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7342:7538" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7375:7385" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7435:7468" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7435:7538" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7643:7663" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7643:7676" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7643:7772" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7688:7705" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7933:7969" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="7970:8079" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="8076:8079" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="8117:8177" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="8246:8305" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="8556:8592" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="8593:8864" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="8631:8835" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="8664:8674" placeholder="..." />
+                <marker date="1538924462921" expanded="true" signature="8718:8728" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/wp-content/bendev/utils/dbUtils.php" />
+        <option value="$PROJECT_DIR$/wp-content/bendev/utils/EmailUtils.php" />
+        <option value="$PROJECT_DIR$/wp-content/bendev/utils/PageUtils.php" />
+        <option value="$PROJECT_DIR$/wp-content/bendev/config/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/bendev/associationManagement/Administrator.php" />
+        <option value="$PROJECT_DIR$/wp-content/bendev/associationManagement/Jumbler.php" />
+        <option value="$PROJECT_DIR$/wp-content/bendev/jumbler/Jumbler.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="29" />
+    <option name="width" value="1588" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bendev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bendev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bendev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jumbler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ben" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bendev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.editor" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb8d509-2934-42c3-8e15-10b86ad17a09" name="Default" comment="" />
+      <created>1532273856063</created>
+      <option name="number" value="Default" />
+      <updated>1532273856063</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="29" width="1588" height="965" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19793014" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.017221585">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/bendev/utils/dbUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.5">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <marker date="1538920648464" expanded="true" signature="460:578" placeholder="select * fro... wp_options" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/bendev/utils/EmailUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/bendev/utils/PageUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.291666">
+          <caret line="217" column="5" selection-start-line="217" selection-start-column="5" selection-end-line="217" selection-end-column="5" />
+          <folding>
+            <marker date="1538920648470" expanded="true" signature="4035:4232" placeholder="..." />
+            <marker date="1538920648470" expanded="true" signature="4065:4223" placeholder="{...}" />
+            <marker date="1538920648470" expanded="true" signature="4163:4219" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/bendev/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24793388">
+          <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/bendev/jumbler/Administrator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.875">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/bendev/jumbler/Jumbler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.121951">
+          <caret line="116" column="6" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="6" />
+          <folding>
+            <marker date="1538924462921" expanded="true" signature="4714:4734" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="4714:5877" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="4785:5877" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="4889:4925" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="4926:5877" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="4951:4971" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="4951:5265" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="4996:5047" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="5048:5239" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="5375:5545" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="5428:5493" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="5608:5877" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="5641:5651" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="5698:5877" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="5757:5877" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6048:6322" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6081:6091" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6139:6171" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6139:6322" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6200:6322" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6590:6875" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6623:6633" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6685:6875" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="6753:6875" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7051:7171" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7342:7362" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7342:7538" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7375:7385" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7435:7468" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7435:7538" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7643:7663" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7643:7676" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7643:7772" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7688:7705" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7933:7969" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="7970:8079" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="8076:8079" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="8117:8177" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="8246:8305" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="8556:8592" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="8593:8864" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="8631:8835" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="8664:8674" placeholder="..." />
+            <marker date="1538924462921" expanded="true" signature="8718:8728" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
